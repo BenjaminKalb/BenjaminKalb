@@ -9,8 +9,10 @@ My favorites among programming languages are C/C++, GoLang, Java
 Actually I'm more of a networker than a "developer", but I understand how this or that programming language works :)
 
 * 🌍  I'm based in Germany, Köln
-* ✉️  You can contact me at [contact.theater815@passinbox.com](mailto:contact.theater815@passinbox.com)
-* 🧠  I'm learning C/C++
+* ✉️  You can contact me at [benjaminkalb2001@gmail.com](mailto:benjaminkalb2001@gmail.com)
+* 🧠  I'm learning C/C++, Lua, Java, GoLang
+
+* My newest project - Project Cryos
 
 ### Skills
 
